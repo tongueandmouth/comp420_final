@@ -1,0 +1,30 @@
+.anonymous_pro{
+    font-family: "Anonymous Pro";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 14px;
+}
+
+.anonymous_pro2{
+    font-family: "Anonymous Pro";
+	font-size: 32px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 14px;
+    color: red;
+}
+
+.right{
+    right: auto;
+}
+
+.todo {
+  max-width:400px;
+  margin:50px auto;
+  background:black;
+  border-radius:5px;
+  box-shadow:10px 10px 0 rgba(0,0,0,0.1);
+}
